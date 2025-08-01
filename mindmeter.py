@@ -143,8 +143,8 @@ if st.button("Analyze Entry"):
 with open("mindmeter_app.py", "w") as f:
     f.write(code)
 
-!pip install streamlit -q
-!pip install pyngrok -q
+#!pip install streamlit -q
+#!pip install pyngrok -q
 
 
 
